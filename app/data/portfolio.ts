@@ -40,7 +40,7 @@ export const personal = {
   email: 'pabloezelivingston@gmail.com',
   linkedin: 'https://www.linkedin.com/in/pablo-ezequiel-livingston',
   github: 'https://github.com/pabloezelivingston',
-  cvDownload: '/CV.md',
+  cvDownload: '/CV.pdf',
 }
 
 export const socials: SocialLink[] = [
